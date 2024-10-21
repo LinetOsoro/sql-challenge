@@ -1,9 +1,6 @@
-References;
+## References
 
-https://www.postgresqltutorial.com/postgresql-tutorial/export-postgresql-table-to-csv-file/
- 
-https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Sql/SQL-%20A%20Beginner's%20Guide,%203rd%20Edition.pdf
-
-https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85378_conceptual,l.html
-
-https://popsql.com/blog/normalization-in-sql
+- [Export PostgreSQL Table to CSV](https://www.postgresqltutorial.com/postgresql-tutorial/export-postgresql-table-to-csv-file/)
+- [SQL: A Beginner's Guide, 3rd Edition (PDF)](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Sql/SQL-%20A%20Beginner's%20Guide,%203rd%20Edition.pdf)
+- [Entity Relationship Diagrams (ERD)](https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85378_conceptual,l.html)
+- [Normalization in SQL](https://popsql.com/blog/normalization-in-sql)
